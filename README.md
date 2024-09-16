@@ -11,9 +11,15 @@ CodeX is a German beverage company that is aiming to make its mark in the Indian
 # Insights-
 
 Targeted Age Group : 15-30 years
+
 Preferred Ingredients : Caffeine
+
 Packaging Preference : Compact and portable cans
+
 Marketing Channels : Online ads and TV commercials
+
 Energy Drink Preference : Male > Female > Non-binary
+
 Focus Cities : Delhi, Jaipur, Lucknow
+
 Consume Reason : Increase energy and focus, to combat fatigue
